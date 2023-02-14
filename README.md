@@ -47,7 +47,6 @@ https://dribbble.com/shots/20259498-Food-Recipe-Mobile-App/attachments/15324161?
 - Tras la entrega del proyecto habrá una sesión de autoevaluación y de evaluación de los miembros del proyecto.
 
 ## Competencias a validar
-
 ### **Maquetación web**
 
 - La maquetación tiene en cuenta las características funcionales descritas en los casos de uso o historias de usuario
